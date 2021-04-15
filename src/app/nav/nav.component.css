@@ -1,0 +1,30 @@
+.full-width {
+  width: 100%;
+  margin: 10px;
+  color: blueviolet;
+}
+
+.shipping-card {
+  min-width: 200px;
+  margin: 40px ;
+  color: blueviolet;
+}
+
+.mat-radio-button {
+  display: block;
+  margin: 5px 0;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.col {
+  flex: 1;
+  margin-right: 20px;
+}
+
+.col:last-child {
+  margin-right: 0;
+}
